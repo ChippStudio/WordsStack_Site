@@ -40,7 +40,7 @@ features                                  :
     fontawesome_icon_name                 : adjust
     
   - title                                 : Multiwindows Support
-    description                           : Practice and add more words simusteniusly
+    description                           : Practice and add more words simultaneously
     fontawesome_icon_name                 : window-restore
 
   - title                                 : Any Size
@@ -56,7 +56,7 @@ features                                  :
     fontawesome_icon_name                 : pen-nib
   
   - title                                 : 111 Languages
-    description                           : Mashine learning translate tool
+    description                           : Machine learning translation tool
     fontawesome_icon_name                 : language
 
   - title                                 : Practices
@@ -64,7 +64,7 @@ features                                  :
     fontawesome_icon_name                 : graduation-cap
 
   - title                                 : Tags
-    description                           : Groupe languages by tag
+    description                           : Group languages by tag
     fontawesome_icon_name                 : tags
 
   - title                                 : Timers
