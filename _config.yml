@@ -23,9 +23,9 @@ enable_smart_app_banner                   : true                                
 your_name                                 : Chipp Studio OÜ                                
 your_link                                 : https://chippstudio.ee                    
 your_city                                 : Tallinn                                
-email_address                             : support@chippstudio.ee
+email_address                             : info@chippstudio.ee
 facebook_username                         :                                           
-instagram_username                        : 
+instagram_username                        : chippstudio
 twitter_username                          : ChippStudio
 github_username                           : 
 youtube_username                          :
@@ -64,7 +64,7 @@ features                                  :
     fontawesome_icon_name                 : graduation-cap
 
   - title                                 : Tags
-    description                           : Group languages by tag
+    description                           : Group translations by tag
     fontawesome_icon_name                 : tags
 
   - title                                 : Timers

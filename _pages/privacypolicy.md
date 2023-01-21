@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-January 20 2023
+January 20, 2023
 
 # Privacy Policy
 This policy applies to all information collected or submitted on Words Stack’s websites and on apps for iOS, macOS, watchOS, tvOS and any other devices and platforms.
@@ -26,7 +26,7 @@ Information may be processed, stored, and used outside of the country in which y
 By using our site or apps, you consent to our privacy policy.
 
 # Contacting Us
-If you have questions regarding this privacy policy, you may email [privacy@chippstudio.ee](mailto:privacy@chippstudio.ee).
+If you have questions regarding this privacy policy, you may email [info@chippstudio.ee](mailto:info@chippstudio.ee).
 
 # Changes to this policy
 If we decide to change our privacy policy, we will post those changes on this page. Summary of changes so far:
