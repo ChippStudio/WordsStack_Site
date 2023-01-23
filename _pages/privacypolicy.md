@@ -25,6 +25,14 @@ Information may be processed, stored, and used outside of the country in which y
 # Your Consent
 By using our site or apps, you consent to our privacy policy.
 
+# Third Party Services
+
+### Mixpanel
+Analytic service. Read [privacy policy](https://mixpanel.com/legal/privacy-policy/)
+
+### Instabug
+Crash reports. Read [privacy policy](https://www.instabug.com/privacy)
+
 # Contacting Us
 If you have questions regarding this privacy policy, you may email [info@chippstudio.ee](mailto:info@chippstudio.ee).
 
