@@ -16,8 +16,6 @@ Words Stack in the active development stage. Be ready for the next release.
 
 Focus on iPad users, better control from the keyboard, rich mouse pointer support, multitasking, and Stage Manager.
 
-Practices.
-
 Also, small improvements for UI/UX, and animations across the app.
 
 ### Version 1.0 
