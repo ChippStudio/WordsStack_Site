@@ -8,9 +8,21 @@ include_in_header: true
 
 <br>
 
-### `Initial Release`
 # **Version 1.0**
-**Coming soon in App Store**
+
+### `WS: 1.1 - iPad`
+**Released 2.02.2023**
+
+iPad users, this update is for you.
+We have improved the UI and UX for big screens, and have added some cool features
+
+- Drop text. Just drag text from a book or site, and drop it into the app. You may check the translation from your glossary or add the new one and learn
+- Keyboard Shortcuts. Control the app from the keyboard
+
+<br>
+
+### `WS: 1.0 - Initial Release`
+**Released 24.01.2023**
 
 Learning new words is the most crucial part of language learning. Words Stack app is created to help you on your language learning journey. Just make a language pair, one you already know, in most cases, it is your mother language, and the second one, you want to learn. And start building your vocabulary.
 
