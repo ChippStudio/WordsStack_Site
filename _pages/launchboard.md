@@ -12,9 +12,16 @@ Words Stack in the active development stage. Be ready for the next release.
 
 ## Words Stack - Version 2
 
-### WS: 2.0
+### WS: 2.1
 
 **`Confirmed: To Go`**
+
+Collaboration
+Learning new languages is a challenge, much easier to go with friends, motivate each other. From this version you can invite friends to collaborate with you.
+
+### WS: 2.0
+
+**`Launched: 11.02.2023`**
 
 Sync and collaboration.
 Started from this version you can use the whole power of synchronisation and to use Words Stack on all your iOS devices

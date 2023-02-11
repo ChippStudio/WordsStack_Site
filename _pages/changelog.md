@@ -8,6 +8,20 @@ include_in_header: true
 
 <br>
 
+# **Version 2.0**
+
+### `WS: 2.0 - Sync`
+
+**Released 11.02.2023**
+
+The main focus is synchronization
+
+Starting from this version, you may use the Words Stack on all your iOS devices and the data will smoothly sync.
+
+We are using iCloud to sync your data, which means all your data is secure and we can't read it.
+
+<br>
+
 # **Version 1.0**
 
 ### `WS: 1.1 - iPad`

@@ -33,7 +33,11 @@ youtube_username                          :
 
 
 # Feature List                            Edit, add or remove features to be presented.
-features                                  :
+features:     
+
+  - title                                 : iCloud Sync
+    description                           : All your words and languages on all your iOS devices
+    fontawesome_icon_name                 : cloud 
 
   - title                                 : Dark Mode
     description                           : Best look in every mode
